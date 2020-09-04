@@ -17,43 +17,24 @@ Once the minimum distance of the face embedding among all the embeddings in the 
 ## Folder Structure
 
 ├── face_recognizer.py
-
 ├── helpers
-
 │   ├── faces
-
 │   │   ├── messi
-
 │   │   │   └── messi.jpg
-
 │   │   └── ronaldo
-
 │   │       └── ronaldo.jpg
-
 │   ├── fr_utils.py
-
 │   ├── haarcascades
-
 │   │   └── haarcascade_frontalface_default.xml
-
 │   ├── image_dataset_gen.py
-
 │   ├── nn4.small2.v1.
-
 │   └── shape_predictor_68_face_landmarks.dat
-
 ├── README.md
-
 ├── requirements.txt
-
 ├── ronaldo.mp4
-
 ├── ronaldo_result.avi
-
 └── target_faces
-
     ├── messi.jpg
-    
     └── ronaldo.jpg
     
 
